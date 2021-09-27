@@ -3,3 +3,4 @@
 3a. version a of update meant to cause conflict.
 
 4. reconfiguring git on computer.
+5. configure git on wsl(linux).
