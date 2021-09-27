@@ -4,3 +4,4 @@
 
 4. reconfiguring git on computer.
 5. configure git on wsl(linux).
+6. Using git on a file in WSL through VSCode.
